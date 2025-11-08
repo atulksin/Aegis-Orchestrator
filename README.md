@@ -321,10 +321,9 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - **FAQ**: [Frequently Asked Questions](docs/faq.md)
 
 ### Getting Help
-- 📧 Email: support@aegis-orchestrator.dev
-- 💬 Slack: #aegis-orchestrator
-- 🐛 Issues: [GitHub Issues](https://github.com/your-org/aegis-orchestrator/issues)
-- 📚 Wiki: [Project Wiki](https://github.com/your-org/aegis-orchestrator/wiki)
+- 📧 Email: atulksin@gmail.com
+-  Issues: [GitHub Issues](https://github.com/atulksin/Aegis-Orchestrator/issues)
+- 📚 Wiki: [Project Wiki](https://github.com/atulksin/Aegis-Orchestrator/wiki)
 
 ## 📄 License
 
